@@ -1,0 +1,8 @@
+pms/node_modules
+pms/dist
+pms/.env
+
+
+e_commerce/node_modules
+e_commerce/dist
+e_commerce/.env
